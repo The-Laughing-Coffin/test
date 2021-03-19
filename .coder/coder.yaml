@@ -5,7 +5,7 @@ workspace:
   spec:
     image: ubuntu
     container-based-vm: true
-    cpu: 1
+    cpu: 3
     memory: 2.5
     disk: 23
     labels:
